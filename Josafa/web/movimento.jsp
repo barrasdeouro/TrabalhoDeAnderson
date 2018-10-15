@@ -1,9 +1,3 @@
-<%-- 
-    Document   : movimento
-    Created on : 12/10/2018, 17:30:03
-    Author     : Infoworld
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
